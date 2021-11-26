@@ -12,7 +12,7 @@ func byeFunction () {
     print("Bye")
 }
 
-func introduction() {
+func main() {
     var choice = 0
     let elements = [1, 2, 3, 4, 5, 6, 7, 8]
     repeat {
@@ -53,7 +53,7 @@ func introduction() {
 }
 
 
-introduction()
+main()
 
 /* // test functions
  pokemonMain()
